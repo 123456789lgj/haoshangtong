@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.deathdealer:converter-fastjson:0.0.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.deathdealer/converter-fastjson/0.0.1/8b40df02bfadb6c7cdd1378184daf81b7f0edd6a/converter-fastjson-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.deathdealer/converter-fastjson/0.0.1/83e732b209827da4b7788aebb689bd8e9aed6063/converter-fastjson-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.deathdealer/converter-fastjson/0.0.1/959ec1df52fda15a35c58b2f9a3c1d0d81621b6e/converter-fastjson-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
